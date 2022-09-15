@@ -1,8 +1,10 @@
 # HTML Intro
 
+[English Version](HTML-Intro-EN.md)
+
 HTML 是超文本标记语言(Hypertext Markup Language)的简写。它不是编程语言，而是用来构建网页内容结构的标记语言。
 
-HTML 的作用就如同建一个没有装修的毛坯房或者只有骨架的房子。
+HTML 的作用就如同建一座没有装修的毛坯房或者只有骨架的房子。
 
 <img src="https://cdn.pixabay.com/photo/2018/05/03/10/18/housebuilding-3370969_1280.jpg" alt="House framing">
 
@@ -43,7 +45,7 @@ HTML 的作用就如同建一个没有装修的毛坯房或者只有骨架的房
 
 ## HTML 基本格式
 
-HTML 文档有标准的 html 规范。
+HTML 文档有标准的 html 书写规范。
 
 ```html
 <!DOCTYPE html>
@@ -66,7 +68,7 @@ HTML 文档有标准的 html 规范。
 - `<meta charset="UTF-8">` 设置 UTF-8 字符集
 - `<title>`为页面的标题,出现在浏览器标签上
 - ` <body>` HTML 页面显示的所有内容都在这个标签内
-- `<h1>`这是一个标题标签
+- `<h1>`是一个标题标签
 
 ## Reference
 
