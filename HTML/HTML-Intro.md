@@ -41,10 +41,26 @@ HTML 的作用就如同建一个没有装修的毛坯房或者只有骨架的房
 `<meta>`
 `<link>`
 
+## HTML 基本格式
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Title</title>
+  </head>
+  <body>
+    <h1>My First Heading</h1>
+    <p>My first paragraph.</p>
+  </body>
+</html>
+```
+
 ## Reference
 
 ```
 
 https://developer.mozilla.org/en-US/docs/Web/HTML
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
 
 ```
