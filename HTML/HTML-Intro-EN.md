@@ -14,7 +14,7 @@ HTML is like building a house with only a structure.
 
 📎 The content of the HTML element is written in the Opening tag and the Closing tag.
 
-Take the `<p>`element as an example,the opening tag `<p>`is the Opening tag，the last tag `</p>`is the Closing tag,the content of the element "I am a Front-end Engineer"is written between these two tags.
+Take the `<p>`element as an example,the `<p>` tag is the Opening tag，the `</p>` tag is the Closing tag,the content of the element "I am a Front-end Engineer"is written between these two tags.
 
 ```html
 <p>I am a Front-end Engineer</p>
@@ -22,7 +22,7 @@ Take the `<p>`element as an example,the opening tag `<p>`is the Opening tag，th
 
 Attributes can be added within the opening tag of an element, and the attributes provide additional information to the HTML that is not displayed in the page.
 
-Take the anchor tag `<a>`as an example，add the`href`attribute to the opening tag，which will jump to the specified page when the user clicks on it.
+Take the anchor tag `<a>` as an example，add the `href` attribute to the opening tag，which will jump to the specified page when the user clicks on it.
 
 ```html
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a"
