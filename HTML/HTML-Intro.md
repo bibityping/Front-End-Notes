@@ -1,7 +1,5 @@
 # HTML Intro
 
----
-
 HTML 是超文本标记语言(Hypertext Markup Language)的简写。它不是编程语言，而是用来构建网页内容结构的标记语言。
 
 HTML 的作用就如同建一个没有装修的毛坯房或者只有骨架的房子。
@@ -9,8 +7,6 @@ HTML 的作用就如同建一个没有装修的毛坯房或者只有骨架的房
 <img src="https://cdn.pixabay.com/photo/2018/05/03/10/18/housebuilding-3370969_1280.jpg" alt="House framing">
 
 ## HTML 元素
-
----
 
 📎HTML 文档由众多元素构成。
 
@@ -34,8 +30,6 @@ HTML 的作用就如同建一个没有装修的毛坯房或者只有骨架的房
 
 ## HTML 空元素
 
----
-
 并不是所有的 HTML 元素都有结束标签。
 
 ##### 例如：
@@ -48,8 +42,6 @@ HTML 的作用就如同建一个没有装修的毛坯房或者只有骨架的房
 `<link>`
 
 ## Reference
-
----
 
 ```
 
