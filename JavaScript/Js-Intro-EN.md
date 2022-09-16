@@ -49,9 +49,9 @@ However, browsers load HTML in document order, so it is recommended that the Jav
 
 ### 2.External Scripts
 
-和 css 的外部文件引入方法一样，建一个.js 的文件，将 JavaScript 代码全部放在这个文件里。
+As with the external file introduction method for css, create a .js file and place all the JavaScript code in this file.
 
-HTML 文件里需要添加下面这个标签,引入外部的 JS 脚本。
+The following tag needs to be added to the HTML file to bring in the external JS script.
 
 ```javascript
 <script src="path/to/script.js"></script>
