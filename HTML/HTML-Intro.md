@@ -70,7 +70,7 @@ HTML 文档有标准的 html 书写规范。
 - ` <body>` HTML 页面显示的所有内容都在这个标签内
 - `<h1>`是一个标题标签
 
-## Reference
+## References
 
 ```
 

@@ -70,7 +70,7 @@ HTML documents have a standard writing specification.
 - ` <body>` All the content displayed on the HTML page is inside this tag
 - `<h1>`is a title tag
 
-## Reference
+## References
 
 ```
 
