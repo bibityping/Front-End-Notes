@@ -15,3 +15,7 @@
 ### 🟡 HTML
 
 📝 [HTML 介绍](HTML/HTML-Intro.md)
+
+### 🟤 JavaScript
+
+📝 [Javascript 介绍](JavaScript/Js-Intro.md)

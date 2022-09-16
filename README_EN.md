@@ -14,4 +14,8 @@ I also hope that the notes I share can help newcomers to learn front-end knowled
 
 ### 🟡 HTML
 
-📝 [HTML 介绍](HTML/HTML-Intro.md)
+📝 [HTML Intro](HTML/HTML-Intro-EN.md)
+
+### 🟤 JavaScript
+
+📝 [Javascript Intro](JavaScript/Js-Intro-EN.md)
