@@ -19,3 +19,4 @@ I also hope that the notes I share can help newcomers to learn front-end knowled
 ### 🟤 JavaScript
 
 📝 [Javascript Intro](JavaScript/Js-Intro-EN.md)
+📝 [What are the differences between variables created using let, var or const?](JavaScript/Js-Declaration-EN.md)
