@@ -25,5 +25,7 @@
 ```text
 
 https://developer.mozilla.org/en-US/docs/Glossary/Doctype
+https://html.spec.whatwg.org/multipage/syntax.html#the-doctype
+https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode
 
 ```
