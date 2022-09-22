@@ -14,7 +14,13 @@ I also hope that the notes I share can help newcomers to learn front-end knowled
 
 ### 🟡 HTML
 
-📝 [HTML Intro](HTML/HTML-Intro-EN.md)
+📝 [HTML Intro](HTML/HTML-Intro-EN.md)<br>
+
+📝 [What does a DOCTYPE do?](/HTML/HTML-DOCTYPE-EN.md)<br>
+
+📝 [What are the new features of H5 ？what is WebSocket?](/HTML/HTML-03-EN.md)<br>
+
+📝 [The difference between cookies, sessionStorage and localStorage](/HTML/HTML-04-EN.md)<br>
 
 ### 🟤 JavaScript
 
